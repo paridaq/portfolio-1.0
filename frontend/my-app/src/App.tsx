@@ -9,7 +9,12 @@ function App() {
 
   return (
     <>
+    
      <Nav/>
+     <div className="h-0.5 bg-black w-3/4 my-4 mx-auto"></div>
+
+
+  
     </>
   )
 }
